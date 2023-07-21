@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Existe nada aqui para ser visto!
+=======
+Existe algo aqui
+>>>>>>> main
